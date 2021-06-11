@@ -14,6 +14,7 @@ Class distribution: 357 benign, 212 malignant
 I have implemented the Logistic Regression and DecisionTreeClassifier on the given data set and got an accuracy score 96.49 and 90.35 respectively.
 
 model_1.ipynb: Logistic Regression
+
 model_2.ipynb: DecisionTreeClassifier
 
 Data set Source:
